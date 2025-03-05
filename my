@@ -1,4 +1,4 @@
-#GENERAL
+#EXTM3U
 #EXTINF:-1 tvg-id="TV1.my" tvg-logo="https://i.imgur.com/wSyPmiY.png" group-title="General",RTM TV 1 [Geo-blocked]
 https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
 
